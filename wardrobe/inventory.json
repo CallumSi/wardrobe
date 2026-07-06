@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "owner": "Callum",
+    "created": "2026-07-06",
+    "last_updated": "2026-07-06",
+    "item_count": 16,
+    "climate": null,
+    "budget_level": null
+  },
+  "items": [
+    {
+      "category": "outerwear",
+      "subcategory": "Aged Heavy Wash Leather Jacket",
+      "brand": "Mutimer",
+      "colour": [
+        "Brown"
+      ],
+      "material": "Aged Heavy Wash Leather",
+      "fit": "Regular",
+      "formality": 5,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "statement",
+      "id": "OUT-001",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "tops",
+      "subcategory": "Jazz Band T-Shirt",
+      "brand": "Mutimer",
+      "colour": [
+        "White"
+      ],
+      "material": "Soft midweight cotton ",
+      "fit": "Regular",
+      "formality": 5,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "id": "TOP-001",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "outerwear",
+      "subcategory": "Leather Jacket",
+      "brand": "Mutimer",
+      "colour": [
+        "black"
+      ],
+      "material": "Full-grain cow leather",
+      "fit": "Boxy",
+      "formality": 6,
+      "season": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Cropped boxy full-grain cowhide jacket with YKK 2-way zip and nylon lining; colour not stated so assumed black.",
+      "id": "OUT-002",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "tops",
+      "subcategory": "Striped T-Shirt",
+      "brand": "Mutimer",
+      "colour": [
+        "navy",
+        "red"
+      ],
+      "material": "Cotton jersey",
+      "fit": "Boxy",
+      "formality": 3,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Heavyweight 280gsm cotton jersey with navy and red stripes and a slightly cropped boxy fit.",
+      "id": "TOP-002",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "bottoms",
+      "subcategory": "Pleated Trousers",
+      "brand": "Mutimer",
+      "colour": [
+        "black"
+      ],
+      "material": "Cotton twill",
+      "fit": "Relaxed",
+      "formality": 6,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Wide straight-leg double-pleated black trousers in sturdy 350gsm brushed cotton twill.",
+      "id": "BTM-001",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "outerwear",
+      "subcategory": "Leather Jacket",
+      "brand": "Mutimer",
+      "colour": [
+        "burgundy"
+      ],
+      "material": "Leather",
+      "fit": "Boxy",
+      "formality": 6,
+      "season": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Custom-dyed bordeaux full-grain cowhide leather jacket with a cropped boxy fit and YKK 2-way zip.",
+      "id": "OUT-003",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "outerwear",
+      "subcategory": "Suede Jacket",
+      "brand": "Mutimer",
+      "colour": [
+        "brown"
+      ],
+      "material": "Suede",
+      "fit": "Boxy",
+      "formality": 6,
+      "season": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Premium cowhide suede jacket with a cropped boxy fit; runs small, so size up.",
+      "id": "OUT-004",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "tops",
+      "subcategory": "Plaid Shirt",
+      "brand": "Mutimer",
+      "colour": [
+        "brown"
+      ],
+      "material": "Cotton",
+      "fit": "Boxy",
+      "formality": 4,
+      "season": [
+        "Spring",
+        "Summer"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Short-sleeve lightweight brown plaid shirt with tortoise-shell buttons and red chest embroidery.",
+      "id": "TOP-003",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "bottoms",
+      "subcategory": "Jeans",
+      "brand": "Mutimer",
+      "colour": [
+        "black"
+      ],
+      "material": "Denim",
+      "fit": "Regular",
+      "formality": 4,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Straight-leg raw unsanforized 'carbon' denim jeans with contrast stitching and YKK zip fly.",
+      "id": "BTM-002",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "outerwear",
+      "subcategory": "Denim Jacket",
+      "brand": "Mutimer",
+      "colour": [
+        "black"
+      ],
+      "material": "Denim",
+      "fit": "Boxy",
+      "formality": 4,
+      "season": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Wide boxy raw 12oz 'carbon' denim jacket with contrast stitching and Morse code collar embroidery.",
+      "id": "OUT-005",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "tops",
+      "subcategory": "Mohair Sweater",
+      "brand": "Mutimer",
+      "colour": [
+        "burgundy"
+      ],
+      "material": "Mohair blend",
+      "fit": "Oversized",
+      "formality": 4,
+      "season": [
+        "Autumn",
+        "Winter"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Vintage-style shaggy brushed mohair-blend knit in wine with gold chest embroidery.",
+      "id": "TOP-004",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "tops",
+      "subcategory": "Work Shirt",
+      "brand": "Mutimer",
+      "colour": [],
+      "material": "cotton",
+      "fit": "Regular",
+      "formality": 4,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Lightweight cotton work shirt with two front patch pockets and red Mutimer chest embroidery.",
+      "id": "TOP-005",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "shoes",
+      "subcategory": "Ankle Boots",
+      "brand": "Our Legacy",
+      "colour": [
+        "black"
+      ],
+      "material": "leather",
+      "fit": "Regular",
+      "formality": 7,
+      "season": [
+        "Autumn",
+        "Winter"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Our Legacy 'Camion' black leather ankle boots; sleek design that dresses up smart-casual outfits.",
+      "id": "SHO-001",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "shoes",
+      "subcategory": "Low-Top Sneakers",
+      "brand": "Common Projects",
+      "colour": [
+        "white"
+      ],
+      "material": "leather",
+      "fit": "Regular",
+      "formality": 5,
+      "season": [
+        "All-season"
+      ],
+      "statementOrBasic": "basic",
+      "notes": "Common Projects Original Achilles minimalist leather sneakers with signature gold serial numbering; versatile smart-casual staple.",
+      "id": "SHO-002",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "shoes",
+      "subcategory": "Low-Top Sneakers",
+      "brand": "Comme des Garçons PLAY x Converse",
+      "colour": [
+        "grey",
+        "black",
+        "white"
+      ],
+      "material": "canvas",
+      "fit": "Regular",
+      "formality": 3,
+      "season": [
+        "Spring",
+        "Summer",
+        "Autumn"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "CdG PLAY x Converse Chuck 70 low-top with the signature black peek-a-boo heart logo on grey canvas.",
+      "id": "SHO-003",
+      "addedAt": "2026-07-06"
+    },
+    {
+      "category": "outerwear",
+      "subcategory": "Varsity Jacket",
+      "brand": "Represent",
+      "colour": [
+        "black",
+        "cream"
+      ],
+      "material": "wool",
+      "fit": "Regular",
+      "formality": 4,
+      "season": [
+        "Autumn",
+        "Winter"
+      ],
+      "statementOrBasic": "statement",
+      "notes": "Wool-body varsity jacket with contrast leather sleeves, chenille panther patch and letterman 'R' applique.",
+      "id": "OUT-006",
+      "addedAt": "2026-07-06"
+    }
+  ],
+  "categories": {
+    "tops": [
+      "TOP-001",
+      "TOP-002",
+      "TOP-003",
+      "TOP-004",
+      "TOP-005"
+    ],
+    "bottoms": [
+      "BTM-001",
+      "BTM-002"
+    ],
+    "outerwear": [
+      "OUT-001",
+      "OUT-002",
+      "OUT-003",
+      "OUT-004",
+      "OUT-005",
+      "OUT-006"
+    ],
+    "shoes": [
+      "SHO-001",
+      "SHO-002",
+      "SHO-003"
+    ],
+    "accessories": [],
+    "bags": [],
+    "jewelry": [],
+    "tailoring": [],
+    "athletic": [],
+    "formalwear": [],
+    "basics": []
+  },
+  "item_schema_reference": {
+    "id": "string (e.g. TOP-001)",
+    "category": "string",
+    "subcategory": "string",
+    "brand": "string | null",
+    "colour": [
+      "string"
+    ],
+    "pattern": "string",
+    "material": "string",
+    "fit": "string",
+    "silhouette": "string",
+    "style_keywords": [
+      "string"
+    ],
+    "formality": "1-10",
+    "season": [
+      "string"
+    ],
+    "occasion": [
+      "string"
+    ],
+    "quality_estimate": "low | mid | high | luxury",
+    "statement_or_basic": "statement | basic",
+    "trendy_or_timeless": "trendy | timeless | neutral",
+    "layering": "base | mid | outer | standalone",
+    "versatility_score": "1-10",
+    "wear_frequency_estimate": "string",
+    "notes": "string"
+  }
+}

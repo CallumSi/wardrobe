@@ -1,0 +1,93 @@
+{
+  "generatedAt": "2026-07-06",
+  "recommendations": [
+    {
+      "productName": "Single-Breasted Wool Long Coat",
+      "brand": "COS",
+      "price": "£269",
+      "colour": "Navy",
+      "url": "https://www.cos.com/en-gb/men/menswear/coatsjackets/wool/product/single-breasted-wool-coat-navy-1305137001",
+      "retailer": "COS",
+      "reason": "Fills the single flagged missing essential — a proper winter coat. The wardrobe's outerwear is entirely leather/suede/denim/varsity (formality 4-6, casual-to-statement); there is nothing tailored or genuinely warm for temperate winters. A navy single-breasted wool overcoat adds a smart, high-formality layer that instantly dresses up the pleated trousers and knitwear, introduces navy (only 1 item in palette) without breaking the neutral core, and covers the coldest end of the UK year.",
+      "pairsWith": [
+        "BTM-001",
+        "BTM-002",
+        "TOP-001",
+        "TOP-004",
+        "SHO-001"
+      ],
+      "priority": 5
+    },
+    {
+      "productName": "Wool Crew-Neck Jumper",
+      "brand": "ARKET",
+      "price": "£75",
+      "colour": "Navy",
+      "url": "https://www.asos.com/arket/arket-wool-crew-neck-sweater-in-navy-blue/prd/209338398",
+      "retailer": "ASOS",
+      "reason": "The wardrobe has only one sweater (burgundy oversized mohair, a statement piece) and no plain, versatile mid-layer. A mid-weight navy wool crewneck is the workhorse knit that layers under every leather jacket, over the oxford or a tee, and stands alone with trousers or jeans — one of the largest single outfit-combination multipliers available here.",
+      "pairsWith": [
+        "OUT-001",
+        "OUT-002",
+        "OUT-006",
+        "BTM-001",
+        "BTM-002",
+        "SHO-002"
+      ],
+      "priority": 4
+    },
+    {
+      "productName": "Regular Fit Chino Trousers",
+      "brand": "Uniqlo",
+      "price": "£34.90",
+      "colour": "Beige (Stone)",
+      "url": "https://www.uniqlo.com/uk/en/products/E482880-000/00",
+      "retailer": "UNIQLO UK",
+      "reason": "All three owned bottoms are dark (black pleated trousers, black jeans — plus the black denim jacket is outerwear), so every outfit currently anchors on a dark leg. A light beige/stone chino is the missing light-neutral bottom: it lifts the palette, provides essential contrast under the dark leather and knitwear, and pairs with virtually every top the client owns. High impact for very low spend.",
+      "pairsWith": [
+        "TOP-001",
+        "TOP-002",
+        "TOP-004",
+        "OUT-001",
+        "OUT-004",
+        "SHO-002"
+      ],
+      "priority": 4
+    },
+    {
+      "productName": "Oxford Shirt",
+      "brand": "Sunspel",
+      "price": "£155",
+      "colour": "Light Blue",
+      "url": "https://www.sunspel.com/products/mens-oxford-shirt-in-light-blue-msht2127-bued",
+      "retailer": "Sunspel",
+      "reason": "The client's shirts are all casual/statement (plaid, work, striped tee) topping out around formality 4. There is no clean, smart button-up. A light-blue Italian-cotton oxford raises the formality ceiling, works under the new overcoat and the leather jackets, tucks into the pleated trousers for a polished look, and adds a soft cool tone to a black/brown-dominant palette.",
+      "pairsWith": [
+        "BTM-001",
+        "OUT-002",
+        "OUT-004",
+        "TOP-004",
+        "SHO-001"
+      ],
+      "priority": 3
+    },
+    {
+      "productName": "Petit New Standard Jeans",
+      "brand": "A.P.C.",
+      "price": "£235",
+      "colour": "Indigo",
+      "url": "https://www.apcstore.co.uk/products/petit-new-standard-jeans-iai-codbs-m09047",
+      "retailer": "A.P.C. UK",
+      "reason": "The only denim owned is black, so the entire jeans rotation is one wash. A.P.C.'s raw indigo Petit New Standard is the definitive minimalist jean — it introduces a mid-blue that the wardrobe completely lacks, ages beautifully, and reads as quiet-luxury casual. It diversifies the bottom half and gives the leather jackets, knitwear and sneakers a fresh, less monochrome base to sit on.",
+      "pairsWith": [
+        "TOP-001",
+        "TOP-003",
+        "TOP-004",
+        "OUT-001",
+        "OUT-004",
+        "SHO-002"
+      ],
+      "priority": 3
+    }
+  ]
+}
