@@ -2,7 +2,7 @@
 
 > An AI-powered personal wardrobe manager — log garments, get a live read on your style, and receive researched shopping recommendations that fill the real gaps.
 
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)
 ![Claude](https://img.shields.io/badge/AI-Claude%20Opus%204.8-D97757?logo=anthropic&logoColor=white)
@@ -13,6 +13,12 @@ extracts every attribute (category, fabric, fit, formality, seasonality) into a
 clean, structured record. As the inventory grows, the app builds an explainable
 **style profile** and can go and research real, purchasable products that would
 most improve the wardrobe.
+
+|  Inventory  |  Style profile  |
+| :---------: | :-------------: |
+| ![Inventory grid](docs/inventory.png) | ![Style profile](docs/profile.png) |
+
+<sub>Editorial, monochrome UI in Archivo + IBM Plex Mono. The style profile is computed live from the inventory — every score is explainable, not model-generated.</sub>
 
 ## Highlights
 
